@@ -2,26 +2,20 @@
 
 # Hi, I'm Artem 👋
 
-**Learning and building backend services with Go**
-
-`REST API` · `Databases` · `Authentication` · `Docker`
-
-[Telegram](https://t.me/artem_msy) · [Email](mailto:artemmocrousov1@gmail.com)
+I'm learning and building backend services with Go.
 
 </div>
 
 ---
 
-## About
-
-I'm learning and building backend services with Go.
+### About
 
 Right now I focus on REST API, databases, authentication and Docker.  
 I chose backend development because I enjoy understanding how systems work behind the interface: business logic, data storage, API contracts and interactions between services.
 
 ---
 
-## Tech stack
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat&logo=go&logoColor=58A6FF" />
@@ -38,7 +32,18 @@ I chose backend development because I enjoy understanding how systems work behin
 
 ---
 
-## Contact
+### Connect with me
 
-- Telegram: [@artem_msy](https://t.me/artem_msy)
-- Email: [artemmocrousov1@gmail.com](mailto:artemmocrousov1@gmail.com)
+<p>
+  <a href="https://t.me/artem_msy">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="30" height="30" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:artemmocrousov1@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" height="30" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Wartemelon">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="30" height="30" alt="GitHub" />
+  </a>
+</p>
