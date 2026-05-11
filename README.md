@@ -32,6 +32,16 @@ I chose backend development because I enjoy understanding how systems work behin
 
 ---
 
-### Connect with me
+## Connect with me
 
-[<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="32" height="32" alt="Telegram" />](https://t.me/artem_msy) &nbsp;&nbsp; [<img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Email" />](mailto:artemmocrousov1@gmail.com) &nbsp;&nbsp; [<img src="https://img.icons8.com/fluency/48/github.png" width="32" height="32" alt="GitHub" />](https://github.com/Wartemelon)
+<a href="https://t.me/artem_msy">
+  <img align="left" src="https://raw.githubusercontent.com/Wartemelon/Wartemelon/main/images/telegram.svg" alt="Artem | Telegram" width="24px"/>
+</a>
+<a href="mailto:artemmocrousov1@gmail.com">
+  <img align="left" src="https://raw.githubusercontent.com/Wartemelon/Wartemelon/main/images/gmail.svg" alt="Artem | Email" width="24px"/>
+</a>
+<a href="https://github.com/Wartemelon">
+  <img align="left" src="https://raw.githubusercontent.com/Wartemelon/Wartemelon/main/images/github.svg" alt="Artem | GitHub" width="24px"/>
+</a>
+
+<br />
