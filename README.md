@@ -35,15 +35,7 @@ I chose backend development because I enjoy understanding how systems work behin
 ### Connect with me
 
 <p align="center">
-  <a href="https://t.me/artem_msy">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="30" height="30" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:artemmocrousov1@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" height="30" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Wartemelon">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="30" height="30" alt="GitHub" />
-  </a>
+  <a href="https://t.me/artem_msy"><img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=229ED9" /></a>
+  <a href="mailto:artemmocrousov1@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/Wartemelon"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
