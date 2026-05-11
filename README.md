@@ -34,9 +34,9 @@ I chose backend development because I enjoy understanding how systems work behin
 
 ## Connect with me
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none; padding: 0 4px 0 0;">
+    <td style="border: none; padding: 0 6px 0 0;">
       <a href="https://t.me/artem_msy"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="32" height="32" alt="Telegram"></a>
     </td>
     <td style="border: none; padding: 0;">
