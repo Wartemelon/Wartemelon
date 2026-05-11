@@ -34,4 +34,5 @@ I chose backend development because I enjoy understanding how systems work behin
 
 ## Connect with me
 
-[<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="32" height="32" alt="Telegram">](https://t.me/artem_msy)&nbsp;&nbsp;&nbsp;[<img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Email">](mailto:artemmocrousov1@gmail.com)
+<a href="https://t.me/artem_msy"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="32" height="32" alt="Telegram"></a>
+<a href="mailto:artemmocrousov1@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Email"></a>
