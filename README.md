@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Artem 👋
 
-<!--
-**Wartemelon/Wartemelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning and building backend services with Go.
 
-Here are some ideas to get you started:
+Right now I focus on REST API, databases, authentication and Docker.  
+I chose backend development because I enjoy understanding how systems work behind the interface: business logic, data storage, API contracts and interactions between services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+- Go
+- REST API, HTTP, JSON
+- SQL, SQLite
+- JWT
+- Docker
+- Git, GitHub
+
+## Contact
+
+Telegram: https://t.me/artem_msy  
+Email: artemmocrousov1@gmail.com
