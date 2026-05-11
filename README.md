@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Artem 👋
+# Hi, I'm Artyom 👋
 
 I'm learning and building backend services with Go.
 
@@ -34,8 +34,6 @@ I chose backend development because I enjoy understanding how systems work behin
 
 ### Connect with me
 
-<p align="center">
-  <a href="https://t.me/artem_msy"><img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=229ED9" /></a>
-  <a href="mailto:artemmocrousov1@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://github.com/Wartemelon"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+<a href="https://t.me/artem_msy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="24" height="24" alt="Telegram" /></a>&nbsp;&nbsp;
+<a href="mailto:artemmocrousov1@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="24" height="24" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Wartemelon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="24" height="24" alt="GitHub" /></a>
